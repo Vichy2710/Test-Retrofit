@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="icon_back">icon back</string>
+    <string name="your_information">YOUR INFORMATION</string>
+    <string name="bio">Enter your general information which help us identify and give you some vouchers</string>
+    <string name="avatar">avatar</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="location">Location</string>
+    <string name="full_name">Full Name</string>
+    <string name="reset">Reset</string>
+    <string name="autofill">Autofill</string>
+    <string name="pre_pay">Pre-pay</string>
+    <string name="email">Email</string>
+</resources>
